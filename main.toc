@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivos}{1}
+\contentsline {section}{\numberline {2}Ciclo Otto}{1}
+\contentsline {subsection}{\numberline {2.1}Ciclos de Aire est\'{a}ndar}{1}
+\contentsline {subsection}{\numberline {2.2}Motores de pist\'{o}n}{1}
+\contentsline {subsection}{\numberline {2.3}Funcionamiento del ciclo Otto}{2}
+\contentsline {subsection}{\numberline {2.4}Eficiencia del ciclo te\'{o}rico}{2}
+\contentsline {section}{\numberline {3}Funcionamiento de inyecci\'{o}n de combustible}{2}
+\contentsline {section}{\numberline {4}Funcionamiento del carburador}{2}
+\contentsline {section}{\numberline {5}Requisitos para una buena combusti\'{o}n}{2}
+\contentsline {section}{\numberline {6}Material}{2}
+\contentsline {section}{\numberline {7}Desarrollo de la pr\'{a}ctica}{2}
+\contentsline {section}{\numberline {8}C\'{a}lculos}{2}
+\contentsline {section}{\numberline {9}Conclusiones}{2}
